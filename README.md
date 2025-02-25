@@ -23,4 +23,5 @@ In this video, I’ll show you how to create a **simple and interactive To-Do Li
 
 #HTML #CSS #JavaScript #ToDoApp #WebDevelopment #Coding #JavaScriptProject #WebApp #Programming #FrontendDevelopment #BeginnerProject
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/834a2372-b4d5-4964-8747-c8133850312a)
+
