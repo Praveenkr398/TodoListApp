@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    user-select: none;
+}
+
+.container {
+    background: linear-gradient(45deg, rgb(68, 63, 63), rgb(188, 188, 188));
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+}
+
+.App {
+    background: linear-gradient(25deg, #ed8a90, #cd89e2);
+    min-width: 300px;
+    min-height: 200px;
+    max-height: 500px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 5px -5px 5px rgb(248, 140, 233);
+    outline: 2px solid white;
+    margin-top: 100px;
+}
+
+.App h1 {
+    padding: 10px 0;
+}
+
+.App h1 span {
+    margin-left: 200px;
+}
+
+.inputBox {
+    border-radius: 5px;
+    background: linear-gradient(250deg, rgb(136, 136, 241), red);
+    border: 2px solid white;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    position: absolute;
+    position: sticky;
+
+}
+
+.inputBox input {
+    background: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+    text-transform: capitalize;
+}
+
+.inputBox input::placeholder {
+    color: rgb(193, 188, 188);
+}
+
+.inputBox button {
+    background-color: rgba(0, 0, 255, 0.745);
+    padding: 15px 20px;
+    font-size: 25px;
+    border-radius: 50px 0 0 50px;
+    border: 3px solid white;
+    color: white;
+    cursor: pointer;
+}
+
+.inputBox button:hover {
+    background-color: rgb(65, 156, 32);
+    padding: 18px 21px;
+}
+
+#listItem {
+    /* background-color: red; */
+    overflow: auto;
+    position: relative;
+    max-height: 300px;
+    scrollbar-width: none;
+    scroll-behavior: smooth;
+}
+
+
+ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    gap: 10px;
+}
+
+ul li {
+    background-color: white;
+    padding: 10px 10px 10px 50px;
+    border-radius: 5px;
+    outline: 1px solid white;
+    outline-offset: 1px;
+    color: black;
+    cursor: pointer;
+    position: relative;
+    list-style-type: none;
+    text-transform: capitalize;
+    font-size: 25px;
+    width: 470px;
+}
+
+ul li:hover {
+    color: black;
+    background-color: rgb(228, 230, 227);
+}
+
+ul li::before {
+    content: '⏺️';
+    left: 5px;
+    top: 5px;
+    position: absolute;
+    height: 20px;
+    width: 20px;
+}
+
+ul li.checked {
+    background-color: rgb(20, 68, 164);
+    color: white;
+    outline: none;
+    box-shadow: 1px 1px 1px red;
+    border-radius: 10px;
+}
+
+ul  li.checked::before{
+    content: '\2705';
+    color: black;
+    font-size: 30px;
+    left: 0px;
+    top: 0px;
+    }
+    
+
+ul li span{
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    width: 40px;
+    height: 40px;
+    font-size: 30px;
+    color:rgb(255, 255, 255);
+    line-height: 40px;
+    text-align: center;
+    background-color: red;
+    border-radius: 50%;
+    cursor: pointer;
+}
+ul li span:hover{
+    background-color: gray;
+} 
