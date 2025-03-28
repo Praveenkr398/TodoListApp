@@ -1,27 +1,37 @@
-LIve: https://praveenkr398.github.io/TodoListApp/
+# ✅ To-Do List App  
 
-**YouTube Video Description for To-Do App (HTML, CSS, JS)**  
+🚀 A simple and interactive **To-Do List App** built using **HTML, CSS, and JavaScript**. Easily manage your daily tasks, mark them as completed, or delete them when done! 📝  
 
-📌 **Build a To-Do List App using HTML, CSS, and JavaScript** | Full Tutorial  
+## 🌟 Features  
+✔ **Add Tasks** – Type your task in the input field and click the "Add" button to list it.  
+✔ **Mark as Completed** – Click on a task to mark it as completed.  
+✔ **Delete Tasks** – Remove tasks from the list using the "Delete" button.  
+✔ **User-Friendly UI** – A clean and easy-to-use interface.  
+✔ **Fully Responsive** – Works on all screen sizes.  
 
-In this video, I’ll show you how to create a **simple and interactive To-Do List App** using **HTML, CSS, and JavaScript**. This project is perfect for beginners who want to practice DOM manipulation and event handling in JavaScript.  
+## 🔗 Live Demo  
+🎯 [Try it here](https://praveenkr398.github.io/TodoListApp/)  
 
-🔹 **Features:**  
-✅ Add and remove tasks  
-✅ Mark tasks as completed  
-✅ Save tasks in local storage (data persists after refresh)  
-✅ Clean and responsive UI  
+## 📂 Source Code  
+🛠 [GitHub Repository](https://github.com/Praveenkr398/TodoListApp)  
 
-🔹 **Technologies Used:**  
-🟢 HTML – Structure of the app  
-🟢 CSS – Styling and layout  
-🟢 JavaScript – Functionality and local storage  
+## 📷 Preview  
+![To-Do App Screenshot](https://github.com/user-attachments/assets/834a2372-b4d5-4964-8747-c8133850312a)
 
-💡 **Source Code:** [Add GitHub or CodePen Link]  
+## 🚀 Technologies Used  
+- HTML  
+- CSS  
+- JavaScript  
 
-📢 Don't forget to **Like, Comment, and Subscribe** for more amazing web development projects! 🚀  
+## 📌 How to Use  
+1️⃣ Open the app.  
+2️⃣ Type your task in the input field.  
+3️⃣ Click "Add" to add the task.  
+4️⃣ Click on a task to mark it as completed.  
+5️⃣ Click "Delete" to remove the task.  
 
-#HTML #CSS #JavaScript #ToDoApp #WebDevelopment #Coding #JavaScriptProject #WebApp #Programming #FrontendDevelopment #BeginnerProject
+## ⭐ Feedback  
+If you like this project, don't forget to ⭐ the repository!  
 
-![image](https://github.com/user-attachments/assets/834a2372-b4d5-4964-8747-c8133850312a)
+https://github.com/user-attachments/assets/834a2372-b4d5-4964-8747-c8133850312a
 
