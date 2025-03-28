@@ -32,6 +32,3 @@
 
 ## ⭐ Feedback  
 If you like this project, don't forget to ⭐ the repository!  
-
-https://github.com/user-attachments/assets/834a2372-b4d5-4964-8747-c8133850312a
-
