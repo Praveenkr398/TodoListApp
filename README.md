@@ -12,6 +12,8 @@
 ## 🔗 Live Demo  
 🎯 [Try it here](https://praveenkr398.github.io/TodoListApp/)  
 
+Category:- "Mini Project, HTML, CSS, JavaScript"
+
 ## 📂 Source Code  
 🛠 [GitHub Repository](https://github.com/Praveenkr398/TodoListApp)  
 
